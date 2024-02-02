@@ -1,0 +1,8 @@
+Github na prática e como é utilizado em empresas, Parte 1.
+
+Cenário: Criar uma nova `branch` apartir de uma outra, para começar um novo trabalho:
+
+- Abra o projeto no terminal. (control + j no vscode)
+- git checkout origem. ( para ir para a branch )
+- git pull. ( para puxar as novas atualizações )
+- git checkout -b destino. ( para criar uma nova branch e ir para ela )

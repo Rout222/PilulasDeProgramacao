@@ -1,0 +1,8 @@
+termcolor
+playsound
+requests
+python-dotenv
+srt_equalizer
+assemblyai
+moviepy
+Pillow==9.5.0
